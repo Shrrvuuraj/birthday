@@ -5,6 +5,7 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
+  background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
 }
 
 .song {
@@ -295,5 +296,5 @@ body {
 }
 .hat{
   position: absolute;
-  
+
 }
