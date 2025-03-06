@@ -109,7 +109,7 @@ body {
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 50.5%;
   position: absolute;
   /* transform: scale(0.1); */
   top: -35%;
@@ -289,4 +289,11 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+}
+#imagePath{
+  position: relative;
+}
+.hat{
+  position: absolute;
+  
 }
